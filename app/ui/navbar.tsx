@@ -121,7 +121,7 @@ export default function Navbar() {
       transformOrigin={{
         vertical: "top",
         horizontal: "right",
-      }}ùù
+      }}
       open={isMobileMenuOpen}
       onClose={handleMobileMenuClose}
     >
